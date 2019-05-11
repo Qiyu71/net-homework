@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on QiYu’s Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on QiYu’s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 13:09:13 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的五一小长假😊</title>
+      <link>/2019/05/05/%E6%88%91%E7%9A%84%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87/</link>
+      <pubDate>Sun, 05 May 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/05/05/%E6%88%91%E7%9A%84%E4%BA%94%E4%B8%80%E5%B0%8F%E9%95%BF%E5%81%87/</guid>
+      <description>5.1 假期第一天 A day for fun !
+今天是快乐美好舒适欢脱的一天，长期困于江安高中，今天出远门我感到一丝激动哈哈哈。和好朋友一起打卡了黄龙溪和中法农业科技园，走了超级超级多的路，拍了好多好多的照片！虽然最后面临叫不到车，险些被困在一个只有大片草地和水的小村村里的窘境，但是和朋友在一起的时间真滴很快乐！
+5.2 假期第二天 A day of learning English !
+因为被安排了满满的雅思课，未来的三天里，我需要像未放假的日子一样，规律作息，艰苦奋斗，真是悲伤逆流成河～
+And 更悲伤的事： 因为觉得自己的头发好多好重洗起来好麻烦，我在下课的一瞬间突然毅然决然地走向了理发店，找到了一个看起来很靠谱的Tony老师，他真的很认真，但也让我丑的很认真😊，明天还要上课，继续加油呀。
+5.3 假期第三天 A day of learning English !
+今天是英语口语课，感觉和以前相比有了很大的突破，找回了一丝丝自信心，收获颇多，但是革命尚未成功，小齐同志仍需努力！
+晚上被拉着去吃了好吃的，耶，满足！
+5.4 假期第四天 A day of learning English and homework!
+今天是英语听力课，可能是昨天睡得比较早的原因，今天精力十足充沛！！亢奋听力一整天，突然意识到假期就这么没了，感到一丝丝的忧愁。
+晚上和小吴同学认真地钻研企业信息管理的作业，一起度过了痛并快乐着的夜晚。
+总结我的五一 雅思课+作业（英语n篇作文、企业信息管理、用R建博客、整理笔记）+ 放松娱乐
+整体来说，除了第一天的快乐出行，剩下的日子每天都在上课，每天忙忙碌碌，倒是不用担心没有事情做，算是过得比较充实啦！！</description>
+    </item>
+    
+    <item>
+      <title>社会调查研究—问卷篇</title>
+      <link>/2019/04/30/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E9%97%AE%E5%8D%B7%E7%AF%87/</link>
+      <pubDate>Tue, 30 Apr 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/04/30/%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E9%97%AE%E5%8D%B7%E7%AF%87/</guid>
+      <description>问卷的概念及其结构  问卷：问卷是调查研究中通来搜集资料的主要工具，它在形式上是一份精心设计的问题表格，其用途则是用来测量人们的行为、态度和社会特征。
+ 问卷的一般结构：封面信、指导语、问题、答案、编码等。
+ 封面信：
+ 说明调查者的身份，即：我是谁 说明调查的大致内容，即：调查什么 说明调查的主要目的，即：为什么调查 调查对象的选取方法和对调查结果保密的措施 在信的结尾处，真诚地感谢被调查者合作与帮助等  指导语
+ 问题及答案
+ 开放式问题：只提出问题，但不为回答者提供备选答案，由回答者根据自己的情况自由填答的问题。主要优点： 封闭式问题：在提出问题的同时，给出若干答案，要求回答者根据实际情况进行选择。优点是填答方便，省时省力，资料易于作统计分析；缺点 编码及其他资料：在以封闭式问题为主的问卷中，为了将被调查者的回答转换成数字，输入计算机进行处理和定量分析，需要对回答结果进行编码，即赋予每一个问题及答案一个数字作为它的代码。   问卷设计的原则
+ 问卷避免太长、太多、太复杂
+ 避免需要进行难度较大的计算和记忆（比如一年前的今天你在干什么？）
+ 对阻碍问卷调查的因素有明确的认识
+ 主观上的障碍：畏难、为难情绪、漫不经心、毫无兴趣
+ 客观上的障碍：阅读能力、理解能力、表达、记忆、计算能力的限制。
+ 从多个不同的角度来考虑问卷设计工作
+ 调查目的的影响
+ 调查内容的影响
+ 样本性质的影响
+ 资料分析方法的影响
+ 问卷使用方式的影响
+ 调查经费和时间
+  （同理心：调查农民，不可高高在上）
+ 问卷设计的步骤
+ 探索性工作（首先要熟悉主题、通过看学术论文借鉴学习调查问卷、研究方法、存在什么漏洞） 设计问卷初稿 卡片法 框图法 试用（找3-50个人试验，人、时间等要尽可能展现真实调查情况，如果有30%在某道题上出现卡顿或者困惑状态，可以接着修改，改动小可以通过，改动大要再试用）  题型及答案的设计
+ 问题的形式
+ 填空式：答案可能会五花八门
+ 是否式
+ 多项选择式：您遇到过以下哪种情况？</description>
+    </item>
+    
+    <item>
+      <title>初识企业信息化</title>
+      <link>/2019/04/28/%E5%88%9D%E8%AF%86%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%8C%96/</link>
+      <pubDate>Sun, 28 Apr 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/04/28/%E5%88%9D%E8%AF%86%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%8C%96/</guid>
+      <description> 企业信息信息化  企业信息化的理解;
+企业信息化发展步骤;
+企业信息化规划;
+企业信息流规划
+ 第一节：企业信息化的理解 企业信息化 是指企业在生产和经营、管理和决策、研究和开发、市场和销售等各方面全面应用信息技术，建设信息网络与信息系统，通过对信息和知识资源的有效开发与利用调整或重组企业。
+核心内容 网络化信息系统的建设、以及在信息技术应用基础上实现对信息资源的开发利用。
+本质 把管理思想、运作、流程抽象提升后优化、标准化、固化。（不是只指资源很多，而是思考如何去开发、利用、组织信息）
+主导思想 整体规划、分步实施、效益驱动（信息组织的变动会给企业带来阵痛，在企业信息化之前要做好整体规划、明确目的和想要达成的效益，逐步达成目标）
+重要三大资源 技术、管理、数据的三者统一（三分技术、七分管理、十二分数据）
+计算要求有数据基础/获取数据的来源，最好数据精细准确可用，才便于加以分析、开发利用。所以想要通过建系统，解决企业信息问题，是不对的，很可能成为摆设。系统只是锦上添花的作用，而非雪中送炭。
+企业信息化建设的主要任务  计算机网络基础设施建设：局域网/外联网/因特网 生产制造管理系统的信息化：关乎产出效益（自动化专业、机械专业）CAD/CAPP/CAE/CAM、MRP、CIMS 企业内部业务管理信息化 财务—进销存—认识—ERP、CRM、DSS 企业内外部信息资源的利用 内外部信息共享、信息化培训、信息化指数   我们可能不需要知道技术背后具体的逻辑和运行原因，但要整体理解大体的思想、流程等，才可以进行信息管理。
+ </description>
+    </item>
+    
+    <item>
+      <title>Typora简单操作</title>
+      <link>/2019/03/10/typora%E7%AE%80%E5%8D%95%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Sun, 10 Mar 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/2019/03/10/typora%E7%AE%80%E5%8D%95%E6%93%8D%E4%BD%9C/</guid>
+      <description>Typora简单操作 标题 ”#“ 这是一级标题
+二级标题、三级标题同理
+字体  加粗：文字左右分别用两个*号包起来 哈哈哈* *斜体：文字左右分别用一个*号包起来 哈哈哈 斜体加粗：左右分别用三个*号包起来 哈哈哈* 删除线：文字左右分别用两个~号包起来 哈哈哈 下划线：文字前加一个&amp;lt;小写字母u&amp;gt;,后加一个&amp;lt;/小写字母u&amp;gt;, 下划线 注意：～很多符号只有英文符号才可以正常使用。 高亮：文字前后各加两个&amp;rdquo;等号，&amp;rdquo;==算是==  引用 在引用的文字前加&amp;gt;即可，再点一下空格
+引用也是可以嵌套的，如两个&amp;gt;&amp;gt;，三个&amp;gt;&amp;gt;&amp;gt;
+比如：
+ 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃的话。能做事的做事，能发声的发声。有一分热，发一分光。就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。此后如竟没有炬火，我便是唯一的光。
+ 分割线 三个后者三个以上的-或者*都可以
+例如：
+图片 ![这个是图片的描述，就是显示在图片下面的文字]()
+亲自体验，Typoar可以直接拖拽 !
+![图片alt](图片地址 &#39;&#39;图片title&#39;&#39;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 上传本地图片直接点击导航栏的图片标志，选择图片即可  超链接 [超链接名](超链接地址 &amp;quot;超链接title&amp;quot;) title可加可不加  百度
+Markdown本身语法不支持连接在新页面中打开，貌似简书做了处理。但是其他平台可能就不行了，如果想要在新页面中打开的话可以用html语言的a标签代替
+&amp;lt;a href=&amp;quot;超链接地址&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;超链接名&amp;lt;/a&amp;gt; 示例 &amp;lt;a href=&amp;quot;https://www.jianshu.com/u/1f5ac0cf6a8b&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;简书&amp;lt;/a&amp;gt;  百度
+列表  无序列表用-+*任何一种都是可以的，但是需要在符号后点一下空格
+ 有序列表 就是“1. &amp;ldquo;&amp;ldquo;注意，&amp;rdquo;1&amp;rdquo;后面应有一个空格，即序号和内容之间要有空格
+ 列表嵌套（1）
+ 方法同上，只是在实心圆蹭几下再分层级 可以继续潜逃无序列表  列表嵌套（2）</description>
+    </item>
+    
+    <item>
+      <title>读书好句摘录</title>
+      <link>/2016/12/30/%E8%AF%BB%E4%B9%A6%E5%A5%BD%E5%8F%A5%E6%91%98%E5%BD%95/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>/2016/12/30/%E8%AF%BB%E4%B9%A6%E5%A5%BD%E5%8F%A5%E6%91%98%E5%BD%95/</guid>
+      <description>纪伯伦《沙与沫》 我曾七次鄙视自己的灵魂：
+第一次，当它本可进取时，却故作谦卑； 第二次，当它在空虚时，用爱欲来填充； 第三次，在困难和容易之间，它选择了容易 ； 第四次，它犯了错，却借由别人也会犯错来宽慰自己； 第五次，它自由软弱，却把它认为是生命的坚韧 ； 第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副； 第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。
+蔡崇达 《皮囊》 我们的生命本来多轻盈，都是被这肉体和各种欲望的污浊给拖住。
+我常对朋友说，理解是对他人最大的善举。当你坐在一个人面前，听他开口说话，看得到各种复杂、精密的境况和命运，如何最终雕刻出这样的性格、思想、做法、长相，这才是理解。而有了这样的眼镜，你才算真正“看见”那个人，也才会发觉，这世界最美的风景，是一个个活出各自模样和体系的人。
+或许能真实地抵达这个世界的，能确切地抵达梦想的，不是不顾一切投入想象的狂热，而是务实的、谦卑的，甚至你自己都看不起的可怜的隐忍。
+我期待自己要活得更真实也更诚实，要更接受甚至喜欢自己身上起伏的每部分，才能更喜欢这世界。我希望自己懂得处理、欣赏各种欲求，各种人性的丑陋与美妙，找到和它们相处的最好方式。我也希望自己能把这一路看到的风景，最终能全部用审美的笔触表达出来。
+皮囊可以不相信心，可以把心忘掉。但一颗活着、醒着、亮着的心无法拒绝皮囊，皮囊标志出生命的限度、生活的限度，生命和生活之所以值得过，也许就因为它有限度，它等待着、召唤着人的挣扎、愤怒、斗争、意志、欲望和梦想。</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>/2015/01/01/lorem-ipsum/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/2015/01/01/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
